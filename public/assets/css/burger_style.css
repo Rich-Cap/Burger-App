@@ -4,9 +4,15 @@ img {
 }
 
 li {
+  color: white;
   padding: 5px;
-  margin: 5px;
+  height: 45px;
   list-style: none;
+}
+
+ul{
+  background-color: rgb(88, 58, 43);
+  margin-bottom: 0px;
 }
 
 .label {
@@ -21,4 +27,47 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.buns{
+  background-color: rgb(216, 181, 115);
+  padding: 15px;
+  border-radius: 20px;
+}
+
+#topBun{
+  border-top-right-radius: 200px;
+  border-top-left-radius: 200px;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+h4{
+  background-color: rgb(214, 73, 38);
+  color: rgb(28, 46, 46);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 0px;
+}
+
+.toEat{
+  background-color: rgb(88, 58, 43);
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.devoured{
+  background-color: rgb(88, 58, 43);
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.cheese{
+  background-color: rgb(238, 207, 71);
+  padding: 0px;
+}
+
+.tomato{
+  background-color: green;
+  height: 25px;
 }

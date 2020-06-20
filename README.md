@@ -16,6 +16,13 @@ Create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM 
 
 * Your app will store every burger in a database, whether devoured or not.
 
+## Images/Content
+---
+### Eat Da Burger App
+![EatDaBurger img](./public/assets/img/EatDaBurger.png)
+
+---
+
 ## Authors
 
 ```
